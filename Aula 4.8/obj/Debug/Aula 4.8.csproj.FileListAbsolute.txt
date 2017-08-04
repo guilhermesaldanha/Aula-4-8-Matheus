@@ -1,0 +1,2 @@
+c:\users\guilherme.gama\documents\visual studio 2015\Projects\Aula 4.8\Aula 4.8\bin\Debug\Aula 4.8.exe.config
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\bin\Debug\Aula 4.8.exe.config
