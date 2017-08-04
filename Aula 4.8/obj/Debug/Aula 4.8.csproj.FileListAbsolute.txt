@@ -1,2 +1,10 @@
 c:\users\guilherme.gama\documents\visual studio 2015\Projects\Aula 4.8\Aula 4.8\bin\Debug\Aula 4.8.exe.config
 C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\bin\Debug\Aula 4.8.exe.config
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\bin\Debug\Aula 4.8.exe
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\bin\Debug\Aula 4.8.pdb
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula 4.8.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula_4._8.Form1.resources
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula_4._8.Properties.Resources.resources
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula 4.8.csproj.GenerateResource.Cache
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula 4.8.exe
+C:\Users\Guilherme.Gama\Desktop\GitHub\Aula-4-8-Matheus\Aula 4.8\obj\Debug\Aula 4.8.pdb
